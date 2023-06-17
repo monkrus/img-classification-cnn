@@ -1,2 +1,2 @@
-# img-classification-cnn
-Image classification using convolutional neural network
+
+**Image classification using convolutional neural network**
