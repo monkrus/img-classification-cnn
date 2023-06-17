@@ -1,7 +1,4 @@
 
 **Image classification using convolutional neural network**
-
-
-# Test accuracy: 0.6955999732017517
-# Test loss: 0.8933104276657104
+- ImageClassificationCNN1 produced test accuracy: 0.6955999732017517 and test loss: 0.8933104276657104
 
