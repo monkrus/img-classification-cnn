@@ -11,4 +11,6 @@ Please note the results for the same test might vary.
 
 - ImageClassificationCNN3 produced test accuracy at 0.8248999714851379 and test loss of 0.5760216116905212
 
-- ImageClassificationCNN3 produced test accuracy at 0.8363000154495239 and test loss of 0.8086720108985901 
+- ImageClassificationCNN4 produced test accuracy at 0.8363000154495239 and test loss of 0.8086720108985901
+
+- ImageClassificationCNN5 is the same as ImageClassificationCNN4 but has added visualization :dog: for sample prediction 
