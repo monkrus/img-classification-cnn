@@ -1,5 +1,5 @@
 
-**Image classification using convolutional neural network using CIFAR-10 dataset**
+**Image classification using convolutional neural network with CIFAR-10 dataset**
 https://www.cs.toronto.edu/~kriz/cifar.html
 
 We experimented with different approaches in order to improve test accuracy. 
